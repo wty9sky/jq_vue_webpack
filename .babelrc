@@ -1,0 +1,9 @@
+{
+    "plugins": [
+      ["import", {
+        "libraryName": "",
+        "libraryDirectory": "es",
+        "style": true
+      }]
+    ]
+  }
